@@ -1,8 +1,26 @@
 {
-    "users":[
+    "languages":[
         {
-            "id": 1,
-            "name": "Something"
+            "name": "ENGLISH",
+            "text": "English"
+        },
+        {
+            "name": "CHINESE",
+            "text": "Chinese"
+        },
+        {
+            "name": "THAI",
+            "text": "thai"
+        }
+    ],
+    "countries":[
+        {
+            "name": "SINGAPORE",
+            "text": "Singapore"
+        },
+        {
+            "name": "THAILAND",
+            "text": "Thaniland"
         }
     ]
 }
